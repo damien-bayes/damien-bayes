@@ -6,9 +6,13 @@ I’m a web application software engineer, devops, UNIX system administrator, UI
 
 I tend to specialize in **JavaScript**, **Python**, **Rust** and **Go** programming languages.
 
+### Status
+
+🔭 I’m currently working on Baythium Ecosystem.
+
 ---
 
-### How I Work
+### Workflow
 
 I really like using Python along with Flask and Django frameworks that accelerate my productivity as never before, however if there is really no need to use either a library or framework, then I don’t. Frankly, I don’t like to complicate things with 3rd party libraries and I tend to solve the problems using custom solutions and methods.
 
@@ -16,10 +20,6 @@ Concurrently, my skill set includes working with banking, online shops, content 
 
 As I said earlier, I’m fond of all kinda development activities but a front-end is my primary thrust to which I’m deeply committed. For this, I constantly seek to something new in my own time for personal interest because I love developing for the web using modern technologies like Vue, React and Angular, building communities, contributing 
 to open source, creating awesome web apps and IoT devices; when I’m not coding, you’ll probably find me reading, blogging, training for races and etc.
-
-### Status
-
-🔭 I’m currently working on Baythium Ecosystem.
 
 ### Get in touch
 
