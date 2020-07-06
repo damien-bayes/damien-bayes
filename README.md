@@ -4,7 +4,7 @@ My name is Damien.
 
 I’m a web application software engineer, devops, UNIX system administrator, UI/UX designer, electricity enthusiast, speaker and a creator of Baythium Ecosystem.
 
-I tend to specialize in **JavaScript**, **Python**, **Rust**, **Go**, **Bash**, **PowerShell** programming languages.
+I tend to specialize in **JavaScript**, **Python**, **Rust**, **Go**, **Bash**, **PowerShell** programming and scripting languages.
 
 ### Status
 
