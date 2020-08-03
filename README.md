@@ -4,8 +4,6 @@ My name is **Damien**.
 
 I’m a **web application software engineer**, **devops**, **UNIX system administrator**, UI/UX designer, electricity enthusiast, speaker and a **creator of Baythium Ecosystem**.
 
-### Programming Language Stack
-
 I tend to specialize in:
 
 - **JavaScript**
