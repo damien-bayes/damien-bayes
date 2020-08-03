@@ -1,23 +1,23 @@
 ### Hi There :octocat:
 
-My name is Damien.
+My name is <mark>Damien</mark>.
 
-I’m a web application software engineer, devops, UNIX system administrator, UI/UX designer, electricity enthusiast, speaker and a creator of Baythium Ecosystem.
+I’m a <mark>web application software engineer</mark>, <mark>devops</mark>, <mark>UNIX system administrator</mark>, UI/UX designer, electricity enthusiast, speaker and a <mark>creator of Baythium Ecosystem</mark>.
 
 ### Technology Stack
 
 I tend to specialize in:
 
-- **JavaScript**
-- **Python**
+- <mark>**JavaScript**</mark>
+- <mark>**Python**</mark>
 - **Rust**
-- **Bash**
+- <mark>**Bash**</mark>
 - **PowerShell**
 - **Go** programming and scripting languages.
 
 ### Status
 
-🔭 I’m currently working on Baythium Ecosystem and government IT projects.
+🔭 I’m currently working on <mark>Baythium Ecosystem</mark> and <mark>government IT projects</mark>.
 
 ---
 
