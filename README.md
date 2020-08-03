@@ -17,7 +17,7 @@ I tend to specialize in:
 
 ### Status
 
-🔭 I’m currently working on Baythium Ecosystem.
+🔭 I’m currently working on Baythium Ecosystem and government IT projects.
 
 ---
 
