@@ -1,4 +1,4 @@
-![Wave](https://github.com/damien-bayes/damien-bayes/blob/master/wave.svg)
+![Wave](https://github.com/damien-bayes/damien-bayes/blob/master/wave-f6671697-4b47-4085-95f9-466de1502faa.svg)
 
 ### Hi There :octocat:
 
