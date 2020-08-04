@@ -1,3 +1,5 @@
+![Wave](./wave.svg)
+
 ### Hi There :octocat:
 
 My name is **Damien**.
