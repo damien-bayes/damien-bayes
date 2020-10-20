@@ -32,5 +32,6 @@ to open source, creating awesome web apps and IoT devices; when I’m not coding
 
 - Twitter: https://twitter.com/damien_bayes
 - Facebook: https://www.facebook.com/damien.bayes.db1
+- LinkedIn: https://www.linkedin.com/in/damien-bayes
 
 > ###### \#Stay Home, Stay Safe and Protect Others
