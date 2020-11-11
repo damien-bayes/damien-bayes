@@ -25,7 +25,7 @@ I really like using Python along with Flask and Django frameworks that accelerat
 
 Concurrently, my skill set includes working with banking, online shops, content management systems, customer relationship management and developing and working with API web-services (micro-services), creation and optimization of scalable websites, search engine optimization (SEO) and others.
 
-As I said earlier, I’m fond of all kinda development activities but a front-end is my primary thrust to which I’m deeply committed. For this, I constantly seek to something new in my own time for personal interest because I love developing for the web using modern technologies like Vue, React and Angular, building communities, contributing 
+As I said earlier, I’m fond of all kinda development activities but a front-end is my primary thrust to which I’m deeply committed. For this, I constantly seek to something new in my own time for personal interest because I love developing for the web using modern technologies like Vue and React, building communities, contributing 
 to open source, creating awesome web apps and IoT devices; when I’m not coding, you’ll probably find me reading, blogging, training for races and etc.
 
 ### Get In Touch
