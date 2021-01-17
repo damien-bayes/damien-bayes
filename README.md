@@ -15,13 +15,13 @@ I tend to specialize in:
 
 ### Status
 
-🔭 I’m currently working on **Baythium Ecosystem** and **government IT projects**.
+🔭 I’m currently working on **Baythium** and **government IT projects**.
 
 ---
 
 ### Workflow
 
-I really like using Python along with Flask and Django frameworks that accelerate my productivity as never before, however if there is really no need to use either a library or framework, then I don’t. Frankly, I don’t like to complicate things with 3rd party libraries and I tend to solve the problems using custom solutions and methods.
+I really like using Python along with Flask and other frameworks that accelerate my productivity as never before, however if there is really no need to use either a library or framework, then I don’t. Frankly, I don’t like to complicate things with 3rd party libraries and I tend to solve the problems using custom solutions and methods.
 
 Concurrently, my skill set includes working with banking, online shops, content management systems, customer relationship management and developing and working with API web-services (micro-services), creation and optimization of scalable websites, search engine optimization (SEO) and others.
 
