@@ -8,10 +8,10 @@ I tend to specialize in:
 
 - **JavaScript**
 - **Python**
-- **Rust**
+- **Go**
 - **Bash**
 - **PowerShell**
-- **Go** programming and scripting languages.
+- **Rust** programming and scripting languages.
 
 ### Status
 
