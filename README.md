@@ -9,9 +9,12 @@ I tend to specialize in:
 - **JavaScript**
 - **Python**
 - **Go**
+- **Rust** programming languages
+
+And:
+
 - **Bash**
-- **PowerShell**
-- **Rust** programming and scripting languages.
+- **PowerShell** shell scripting tools
 
 ### Status
 
