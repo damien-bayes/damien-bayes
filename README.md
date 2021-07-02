@@ -14,7 +14,7 @@ I tend to specialize in:
 And:
 
 - **Bash**
-- **PowerShell** shell scripting tools
+- **PowerShell** scripting tools
 
 ### Status
 
