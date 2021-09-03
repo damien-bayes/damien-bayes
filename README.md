@@ -6,7 +6,7 @@ I’m a **web application, software & QA engineer**, **devops**, **UNIX system a
 
 I tend to specialize in:
 
-- **JavaScript**
+- **JavaScript**, **TypeScript**
 - **Python**
 - **Go**
 - **Rust** programming languages
