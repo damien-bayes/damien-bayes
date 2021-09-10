@@ -4,7 +4,7 @@
 
 My name is **Damien**.
 
-I'm a **web application, software & QA engineer**, **devops**, **UNIX system administrator**, UI/UX designer, electricity enthusiast, speaker and a **creator of Baythium Ecosystem**.
+I'm a **web application, software & QA engineer**, **devops**, **UNIX system administrator**, UI/UX designer, electricity enthusiast, speaker and a **creator of Baythium Ecosystem**
 
 I tend to specialize in:
 
@@ -20,7 +20,7 @@ And:
 
 ### Status
 
-🔭 I'm currently working on [**Baythium**](https://baythium.com) projects and **beyond**.
+🔭 I'm currently working on [**Baythium**](https://baythium.com) projects and **beyond**
 
 ---
 
