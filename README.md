@@ -1,4 +1,4 @@
-:us: :de:
+:de: :us:
 
 ### Hi There :octocat:
 
