@@ -2,7 +2,7 @@
 
 ### Hi There :octocat:
 
-My name is **Damien**.
+My name is **Damien**
 
 I'm a **web application, software & QA engineer**, **devops**, **UNIX system administrator**, UI/UX designer, electricity enthusiast, speaker and a **creator of Baythium Ecosystem**
 
