@@ -37,4 +37,4 @@ to open source, creatin' awesome web 'n native apps in addition to IoT devices; 
 - Facebook: https://www.facebook.com/damien.bayes.db1
 - LinkedIn: https://www.linkedin.com/in/damien-bayes
 
-> ###### \#Don't be afraid of failure, because without it there'll be no success
+> ###### \# Don't be afraid of failure, because without it there'll be no success
