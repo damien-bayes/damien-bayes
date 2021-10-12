@@ -29,7 +29,7 @@ I tend to specialize in these technologies and tools:
 
 ### Status
 
-🔭 I'm currently working on [**Baythium**](https://baythium.com) projects and **beyond**
+🔭 I'm currently working on [**Baythium**](https://baythium.com) projects in the software engineering department and **beyond**
 
 ---
 
