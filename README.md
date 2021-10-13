@@ -31,6 +31,18 @@ I tend to specialize in these technologies and tools:
 
 🔭 I'm currently working on [**Baythium**](https://baythium.com) projects in the software engineering department and **beyond**
 
+### Skills
+
+- Have more than 5 years of professional software engineering experience; ✔
+- Solid understanding of web programming with HTML, CSS and JavaScript (TypeScript); ✔
+- Experience with both server side JavaScript and client-side JavaScript in the context of SPA and server-rendered web architecture; ✔
+- Understanding of web technologies (HTTP Request/Response, REST and etc.); ✔
+- Great experience building sites that take into consideration performance, accessibility, SEO and more; ✔
+- Skilled with common web security practices; ✔
+- Knowledge of front-end frameworks such as React, Vue, Svelte and standards based web components; ✔
+- Experience with vector and motion graphics, including SVG, HTML5 canvas and WebGL; ✔
+- Experience with Linux, Docker, Kubernetes, container orchestration tools and building web apps to scale; ✔
+
 ---
 
 ### Workflow
