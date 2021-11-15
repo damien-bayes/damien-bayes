@@ -27,7 +27,7 @@
   .st3{fill:#12191D;}
   .st4{fill:#FFFFFF;}
   #Logo{animation:flicker 2s linear reverse infinite;}
-  #Fragments{animation:mercury 30s linear infinite;}
+  #Fragments{animation:mercury 30s linear reverse infinite;}
 </style>
 
 <g id="Fragments" transform-origin="center">
