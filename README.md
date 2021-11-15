@@ -1,4 +1,4 @@
-:de: :us:
+<img width="32" height="32" src="https://raw.githubusercontent.com/damien-bayes/damien-bayes/2a89109817733b8a5e8a9d5d2db2f77b397352d8/baythium-logo-43d172db-190f-49a9-9e9c-57c52d5ff6c1.svg"/>
 
 ### Hi There :octocat:
 
@@ -53,6 +53,8 @@ I tend to specialize in these technologies and tools:
 to open source, creatin' awesome web 'n native apps in addition to IoT devices; when I'm not codin', you'll probably find me readin', bloggin', trainin' for races 'n etc.
 
 ### Get In Touch
+
+:de: :us:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/damien_bayes?style=social)](https://twitter.com/damien_bayes)
 [![Linkedin: damien_bayes](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damien-bayes)](https://www.linkedin.com/in/damien-bayes)
